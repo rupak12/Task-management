@@ -78,6 +78,13 @@ Response:
   "created_at": "2024-09-15T12:34:56.000000Z",
   "updated_at": "2024-09-15T12:34:56.000000Z"
 }
+Testing:
+## 1. Email : rupak.manna99@gmail.com
+    password: 12345678
+## 2. Email : test@gmail.com
+    password: Test@123
+## 3. Email : user@gmail.com
+    password: User@123
 
 Assumptions & Design Decisions:
 The task priority system is simple with three levels: Low, Medium, High.
